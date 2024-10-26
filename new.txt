@@ -17,7 +17,7 @@ jijsjfnajekfnjknfhjoopkmfnmvnnknfaufhsfnailkpkweokkjfjksfjkjfikjdsfnmenvjaldskfj
 lkjfkjslkdfjljfsfkfs;lkopijkanfmvcaefnfka
 fpdllf
 affmsmflsdf
-
+kn 
 fsfamakfmamfmlflmfkamflmwmfmflkmnvfv
 
 
@@ -27,6 +27,7 @@ fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfa
 fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfasgmkglmlgmfdmkmdlvmfkvlmvls
 fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfasgmkglmlgmfdmkmdlvmfkvlmvlsdsmkfmdslfmdmallakmflmfkkmkaieoijfklmvjvpramfk;lkfoaol,a,.mv.mm..m,vm,.xcvcmx,vmv.mvm,.vm.mvz
 fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfasgmkglmlgmfdmkmdlvmfkvlmvlsdsmkfmdslfmdmallakmflmfkkmkaieoijfklmvjvpramfk
+<<<<<<< HEAD
 sdfdsflsdf
 sdf;dflsfmkmlfkf'sdfs
 fsdkmfkalfmkmdasfdfsf
@@ -107,3 +108,5 @@ fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfaf
 fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkf
 fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfasgmkglmlgmfdmkmdlvmfkvlmvlsdsmkfmdslfmdmallakmflmfkkmkaieoijfklmvjvpramfk
 fknfsnfdsfknfuhaofjenfibudfksfnjufjkdkflfslflkmklsmdklmmfasgmkglmlgmfdmkmdlvmfkvlmvlsdsmkfmdslfmdmallakmflmfkkmkaieoijfklmvjvpramfkf
+=======
+>>>>>>> cc5af89beb71af0db8d2de0d753533f5f9e3dde1
